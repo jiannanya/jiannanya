@@ -4,6 +4,7 @@
   - [ch_cornell_pathtracer](https://github.com/jiannanya/ch_cornell_pathtracer)
 - 📫 reach me:
   - jiannanya@outlook.com
-- [BTY，I am using a little trick of auto-green mechanism here](https://github.com/jiannanya/auto-green)
+
+BTY，I am using a little trick of auto-green mechanism [here](https://github.com/jiannanya/auto-green)
 
 
