@@ -3,6 +3,7 @@
   - [photon_loom](https://github.com/jiannanya/photon_loom): a small soft rasterizer
   - [ch_cornell_pathtracer](https://github.com/jiannanya/ch_cornell_pathtracer): a small soft path tracer
   - [chlog](https://github.com/jiannanya/chlog): a ligthweight and efficiency modern header-only C++ logging library
+  - [chtest](https://github.com/jiannanya/chtest): A lightweight and performance header only C++17 testing framework 
 - 📫 reach me:
   - jiannanya@outlook.com
 
