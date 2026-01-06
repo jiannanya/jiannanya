@@ -6,6 +6,8 @@
   - [chfloat](https://github.com/jiannanya/chfloat): A lightweight and performance/superfast C++17 numeric parsing helper library 
   - [photon_loom](https://github.com/jiannanya/photon_loom): A small soft rasterizer
   - [ch_cornell_pathtracer](https://github.com/jiannanya/ch_cornell_pathtracer): A small soft path tracer
+ 
+    ![`result`](https://github.com/jiannanya/ch_cornell_pathtracer/blob/main/cornell_box_ggx_pt.png)
 
 - 📫 reach me:
   - jiannanya@outlook.com
