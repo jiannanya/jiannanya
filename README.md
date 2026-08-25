@@ -1,6 +1,6 @@
 
 - 👀 my projects:
-  - [llm_structured](https://github.com/jiannanya/llm_structured): Parse messy LLM output into trustworthy, validated structured data — with the same behavior across C++, Python, and TypeScript.
+  - [chyaml](https://github.com/jiannanya/chyaml): A self-contained C++20 YAML 1.2.2 parser and writer with fast speed
   - [agent.tbrpwn.md](https://github.com/jiannanya/agent.tbrpwn.md): A useful and powerful AI agent loop operates under an explicit and executable operating contract.
   - [ch_lite_gpt](https://github.com/jiannanya/ch_lite_gpt): 一个可以在 CPU 上完整跑通训练与推理的中文短文阅读理解 lite GPT（中文指令风格）。A Chinese short text reading comprehension lite GPT (Chinese instruction style) that can fully run training and inference on CPU.
   - [chjson](https://github.com/jiannanya/chjson): A super high performance C++17 JSON library.
